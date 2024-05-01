@@ -37,4 +37,8 @@ After deploying both the PostgreSQL exporter and Prometheus, verify that Prometh
 
 ### 5. POC
 
-    https://drive.google.com/file/d/16BqLF6UPPNrMwP9I3981u0ftYvYmRpCM/view?usp=sharing
+      https://drive.google.com/file/d/16BqLF6UPPNrMwP9I3981u0ftYvYmRpCM/view?usp=sharing
+    
+      Added prometheus Target tab that was missing in earlier section 
+
+      https://drive.google.com/file/d/1hgKgdY1MpHeeurrO5tmymMoweRwy_WjP/view?usp=sharing
